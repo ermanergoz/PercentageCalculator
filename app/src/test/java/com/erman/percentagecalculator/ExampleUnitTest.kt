@@ -1,4 +1,4 @@
-package com.example.percentagecalculator
+package com.erman.percentagecalculator
 
 import org.junit.Test
 

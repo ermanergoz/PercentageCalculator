@@ -1,4 +1,4 @@
-package com.example.percentagecalculator
+package com.erman.percentagecalculator
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

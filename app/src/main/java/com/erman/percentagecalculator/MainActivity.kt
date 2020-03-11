@@ -1,4 +1,4 @@
-package com.example.percentagecalculator
+package com.erman.percentagecalculator
 
 import android.content.Context
 import android.content.pm.ActivityInfo
