@@ -9,4 +9,6 @@
     <string name="changeAtoBRadioButton3">What is the percentage change from A to B?</string>
     <string name="increaseByPercentBRadioButton4">What is number A increased by %B?</string>
     <string name="decreaseAbyPercentBRadioButton5">What is number A decreased by %B?</string>
+    <string name="a">A:</string>
+    <string name="b">B:</string>
 </resources>

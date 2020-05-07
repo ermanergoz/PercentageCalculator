@@ -9,4 +9,6 @@
     <string name="changeAtoBRadioButton3">A sayısından B sayısına değişim yüzdesi nedir?</string>
     <string name="increaseByPercentBRadioButton4">A sayısı %B kadar artırılırsa kaç olur?</string>
     <string name="decreaseAbyPercentBRadioButton5">A sayısı, %B kadar azaltılırsa kaç olur?</string>
+    <string name="a">A:</string>
+    <string name="b">B:</string>
 </resources>
