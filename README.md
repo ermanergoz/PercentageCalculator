@@ -1,16 +1,39 @@
-# Percentage Calculator
+# Peg Solitarie
 
-Simple percentage calculator 
+[<img src="https://github.com/ermanergoz/PercentageCalculator/blob/master/resources/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.erman.percentagecalculator)
 
-Type the numbers A and B and choose one of the following: 
-- What is %B of the number A? 
-- Number A is what percent of number B? 
-- What is the percentage change from A to B? 
-- What is number A increased by %B? 
-- What is number A decreased by %B? 
+A simple percentage calculator for Android.
 
-- Turkish language support
+<p float="center">
+	<img src="https://github.com/ermanergoz/PercentageCalculator/blob/master/resources/ss1.png" height="500">
+</p>
+
+## Features
+
+- Calculate %B of the number A
+- Calculate number A is what percent of number B
+- Calculate the percentage change from A to B
+- Calculate number A increased by %B
+- Calculate number A decreased by %B
 - Dark theme support
 
-[<img alt="Get it on Google Play" src="https://github.com/ermanergoz/images-in-readme/blob/master/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.erman.percentagecalculator)
+## Build & Run
 
+- Clone git repository:
+
+	```sh
+	git clone https://github.com/ermanergoz/PercentageCalculator.git
+	```
+
+- Import the project into Android Studio:
+	- Open Android Studio. After that Click on “Open an existing Android Studio project”. If Android Studio is already open, click on File and then Click on Open.
+	- Select the location of the cloned repository and then Click OK.
+	- After Gradle operations are finished, the application will be ready to run.
+
+## Meta
+
+Yusuf Erman ERGÖZ – erman.ergoz@gmail.com
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[https://github.com/ermanergoz](https://github.com/ermanergoz)
