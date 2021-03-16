@@ -1,4 +1,4 @@
-# Peg Solitarie
+# Percentage Calculator
 
 [<img src="https://github.com/ermanergoz/PercentageCalculator/blob/master/resources/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.erman.percentagecalculator)
 
